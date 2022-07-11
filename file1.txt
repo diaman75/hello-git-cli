@@ -5,3 +5,4 @@
 "fifth - master" 
 git sixth commit 
 rebase test1 
+"some hot fix" 
